@@ -753,15 +753,15 @@
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.10.8.tgz#2a30cec3635d8903b65256d4319a2c1988325074"
   integrity sha1-KjDOw2NdiQO2UlbUMZosGYgyUHQ=
 
+"@types/node@16.11.60":
+  version "16.11.60"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.60.tgz#a1fbca80c18dd80c8783557304cdb7d55ac3aff5"
+  integrity sha512-kYIYa1D1L+HDv5M5RXQeEu1o0FKA6yedZIoyugm/MBPROkLpX4L7HRxMrPVyo8bnvjpW/wDlqFNGzXNMb7AdRw==
+
 "@types/node@^14.6.2":
   version "14.17.25"
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-14.17.25.tgz#a1f93cc569b58292551c14b81fd74634eceb0dde"
   integrity sha1-ofk8xWm1gpJVHBS4H9dGNOzrDd4=
-
-"@types/node@^16.10.9":
-  version "16.10.9"
-  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.10.9.tgz#8f1cdd517972f76a3b928298f4c0747cd6fef25a"
-  integrity sha1-jxzdUXly92o7koKY9MB0fNb+8lo=
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"

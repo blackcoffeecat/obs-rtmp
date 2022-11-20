@@ -753,15 +753,15 @@
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.10.8.tgz#2a30cec3635d8903b65256d4319a2c1988325074"
   integrity sha1-KjDOw2NdiQO2UlbUMZosGYgyUHQ=
 
-"@types/node@^14.6.2":
-  version "14.17.25"
-  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-14.17.25.tgz#a1f93cc569b58292551c14b81fd74634eceb0dde"
-  integrity sha1-ofk8xWm1gpJVHBS4H9dGNOzrDd4=
-
 "@types/node@^16.10.9":
   version "16.10.9"
   resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.10.9.tgz#8f1cdd517972f76a3b928298f4c0747cd6fef25a"
   integrity sha1-jxzdUXly92o7koKY9MB0fNb+8lo=
+
+"@types/node@^16.11.26":
+  version "16.18.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.18.3.tgz#d7f7ba828ad9e540270f01ce00d391c54e6e0abc"
+  integrity sha512-jh6m0QUhIRcZpNv7Z/rpN+ZWXOicUUQbSoWks7Htkbb9IjFQj4kzcX/xFCkjstCj5flMsN8FiSvt+q+Tcs4Llg==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
@@ -2401,13 +2401,13 @@ electron-winstaller@^5.0.0:
     lodash.template "^4.2.2"
     temp "^0.9.0"
 
-electron@15.1.2:
-  version "15.1.2"
-  resolved "https://registry.npmmirror.com/electron/download/electron-15.1.2.tgz#be1e362ab7307e38155709b0862e6a87f5e748b3"
-  integrity sha1-vh42KrcwfjgVVwmwhi5qh/XnSLM=
+electron@18.3.7:
+  version "18.3.7"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-18.3.7.tgz#a22a23d63811d067c8e33abc5674122408319265"
+  integrity sha512-SDvX0VYejR1xw9PrJyvnyiDcuIhdzFVaA1NaRN2LEWXr5R6mEFl8NVTM+i5dtxMm2SHP/FPnkvmsWZs6MHijqg==
   dependencies:
     "@electron/get" "^1.13.0"
-    "@types/node" "^14.6.2"
+    "@types/node" "^16.11.26"
     extract-zip "^1.0.3"
 
 emoji-regex@^8.0.0:

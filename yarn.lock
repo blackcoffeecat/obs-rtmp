@@ -207,9 +207,7 @@
     which "^2.0.2"
 
 "@electron-forge/maker-deb@^6.0.0-beta.61":
-  version "6.0.0-beta.61"
-  resolved "https://registry.npmmirror.com/@electron-forge/maker-deb/download/@electron-forge/maker-deb-6.0.0-beta.61.tgz#87f4ad9c7b49ecbb1c3e78af695b8ff0bacec940"
-  integrity sha1-h/StnHtJ7LscPnivaVuP8LrOyUA=
+  version "6.4.2"
   dependencies:
     "@electron-forge/maker-base" "6.0.0-beta.61"
     "@electron-forge/shared-types" "6.0.0-beta.61"

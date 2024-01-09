@@ -6445,9 +6445,9 @@ strip-outer@^1.0.1:
     escape-string-regexp "^1.0.2"
 
 style-loader@^3.0.0:
-  version "3.3.0"
-  resolved "https://registry.npmmirror.com/style-loader/download/style-loader-3.3.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fstyle-loader%2Fdownload%2Fstyle-loader-3.3.0.tgz#d66ea95fc50b22f8b79b69a9e414760fcf58d8d8"
-  integrity sha1-1m6pX8ULIvi3m2mp5BR2D89Y2Ng=
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/style-loader/-/style-loader-3.3.4.tgz#f30f786c36db03a45cbd55b6a70d930c479090e7"
+  integrity sha512-0WqXzrsMTyb8yjZJHDqwmnwRJvhALK9LfRtRc6B4UTWe8AijYLZYZ9thuJTZc2VfQWINADW/j+LiJnfy2RoC1w==
 
 stylis@^4.0.3:
   version "4.0.10"
